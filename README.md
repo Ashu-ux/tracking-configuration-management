@@ -1,2 +1,16 @@
-# tracking-configuration-management
-Created a Java and SQL-based system to manage client issues and configuration changes. Implemented JDBC integration, SLA tracking, and reporting to support debugging, escalation, and client-focused solution workflows.
+# Java-Based Issue Tracking and Client Configuration Management System
+
+## Overview
+A Java + SQL system for managing client issues, configuration changes,
+and resolution tracking.
+
+## Tech Stack
+- Java
+- JDBC
+- MySQL
+
+## Features
+- Issue logging and tracking
+- SLA monitoring
+- Configuration history
+- Client-wise reports
